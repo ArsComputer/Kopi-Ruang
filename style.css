@@ -653,6 +653,11 @@ img {
         text-align: center;
     }
 
+    .services__card {
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+
     /* About Layout */
     .about__text {
         text-align: center;
